@@ -1,1 +1,7 @@
+br\com\dynamodb\controllers\DynamoDBController.class
 br\com\dynamodb\DynamoDBApplication.class
+br\com\dynamodb\business\DynamoDBBusiness.class
+br\com\dynamodb\configurations\DynamoDBConfig.class
+br\com\dynamodb\entyties\ProductInfo.class
+br\com\dynamodb\repositories\ProductInfoRepository.class
+br\com\dynamodb\dtos\Response.class

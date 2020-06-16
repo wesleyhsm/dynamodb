@@ -44,5 +44,4 @@ public class Response<T> {
 	public List<Error> getErrors() {
 		return errors;
 	}
-
 }

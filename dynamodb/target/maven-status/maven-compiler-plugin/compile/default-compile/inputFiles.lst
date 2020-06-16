@@ -1,7 +1,12 @@
+C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\repositories\PageProductInfoRepository.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\configurations\DynamoDBConfig.java
+C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\entyties\Detail.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\business\DynamoDBBusiness.java
+C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\handler\ControllerExceptionHandler.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\entyties\ProductInfo.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\controllers\DynamoDBController.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\repositories\ProductInfoRepository.java
+C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\converter\ObjectConverter.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\dtos\Response.java
 C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\DynamoDBApplication.java
+C:\Users\845584\Documents\wesley\dynamodb\dynamodb\src\main\java\br\com\dynamodb\dtos\Error.java
